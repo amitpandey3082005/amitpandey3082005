@@ -1,7 +1,7 @@
-# <img src="https://giphy.com" width="30px"> Hi there, I'm Amit Pandey
+#  Hi there, I'm Amit Pandey
 
 <p align="center">
-  <img src="https://herokuapp.com" alt="Typing SVG" />
+  <img width="40%" src="amt.png" alt="Typing SVG" />
 </p>
 
 ---
@@ -19,11 +19,11 @@
   <tr>
     <td width="150px">
       <!-- अपनी कॉलेज फोटो/लोगो का लिंक यहाँ 'src' में डालें -->
-      <img src="https://placeholder.com" align="center" alt="Shibli National College" />
+      <img src="5.png" align="center" alt="Shibli National College" />
     </td>
     <td>
       <strong>Shibli National College, Azamgarh</strong><br>
-      <em>Affiliated with VBSPU / Maharaja Suhel Dev State University</em><br>
+      <em>Affiliated with Maharaja Suhel Dev State University</em><br>
       Pursuing Bachelor of Computer Applications (BCA)
     </td>
   </tr>
@@ -32,7 +32,7 @@
 ---
 
 ### 🔭 Current Work & Projects
-- 🛠️ **Major Project:** Developing **[Shibli-Knowledge-website](https://github.com)** - A comprehensive full-stack platform for college resources.
+- 🛠️ **Major Project:** Developing **[Shibli-Knowledge-website](https://github.com)** - A comprehensive full-stack platform for Founder of Shibli National College named Allama Shibli Nomani.This website provides detiled Biography of Allama Shibli Nomani abut their life journey Achivements and struggle for Education.
 - 🌱 **Continuous Learning:** Enhancing my skills in **Advanced AJAX, jQuery, and Database Optimization**.
 - 👯 **Open Source:** Looking to collaborate on PHP and Web-based open-source projects.
 
