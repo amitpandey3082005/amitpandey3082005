@@ -58,7 +58,7 @@
 <p align="left">
  <strong>Mail Att :</strong> <a href="mailto:amitpandey1187170@gmail.com"> amitpandey1187170@gmail.com</a> <br>
  <strong>Call At :</strong> <a href="tel:9956794787">9956794787</a><br>
- <strong>LinkedIn :</strong> <a href="https://linkdin.com/in/amit-pandey-shibli">linkdin.com/in/amit-pandey-shibli</a>
+ <strong>LinkedIn :</strong> <a href="https://linkedin.com/in/amit-pandey-shibli">linkedin.com/in/amit-pandey-shibli</a>
 </p>
 
 ---
