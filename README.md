@@ -1,7 +1,7 @@
 #  Hi there, I'm Amit Pandey
 
 <p align="center">
-  <img width="40%" src="amt.png" alt="Typing SVG" />
+  <img width="40%" src="WhatsApp Image 2026-05-13 at 10.40.39 PM.jpeg" alt="Typing SVG" />
 </p>
 
 ---
