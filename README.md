@@ -22,7 +22,7 @@
   <tr>
     <td width="120px" align="center">
       <!-- Upload your Galgotias University logo as 'galgotias-logo.png' -->
-      <img src="galgotias-logo.png" alt="Galgotias University" width="100px" />
+      <img src="galgoatias.jpeg" alt="Galgotias University" width="100px" />
     </td>
     <td>
       <strong>Galgotias University, Greater Noida</strong><br>
