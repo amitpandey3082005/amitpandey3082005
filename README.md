@@ -1,4 +1,4 @@
-#  Hi there, I'm Amit Pandey
+# Hi there, I'm Amit Pandey 👋
 
 <p align="center">
   <img width="40%" src="amt.png" alt="Typing SVG" />
@@ -7,27 +7,38 @@
 ---
 
 ### 🎓 Professional Profile
-- 🏫 **Final Year BCA Student** at **Shibli National College, Azamgarh** (Batch 2023-2026).
-- 🏆 Maintaining a strong academic record with a **CGPA of 8.8**.
-- 🚀 **Aspiring Software Developer** with a deep passion for backend architecture and database management.
--   🌱 **Continuous Learning:** Enhancing my skills in **Advanced AJAX, jQuery, and Database Optimization**.
-- 👯 **Open Source:** Looking to collaborate on PHP and Web-based open-source projects.
-- 💻 Currently specializing in **PHP Development** and building scalable web solutions.
+- 🏫 **First Year MCA Student** at **Galgotias University** (Batch 2026-2028).
+- 🎓 **BCA Graduate** from **Shibli National College, Azamgarh** (Batch 2023-2026).
+- 🏆 Maintained a strong academic record with a **CGPA of 8.8** in graduation.
+- 🚀 **Aspiring Software Developer** with a deep passion for backend architecture and core problem-solving.
+- 🌱 **Continuous Learning:** Enhancing my skills in **Data Structures & Algorithms (DSA)** and **Communication Skills**.
+- 👯 **Open Source:** Looking to collaborate on Java and Web-based open-source projects.
+- 💻 Currently specializing in **Java Development** and building scalable solutions.
 
 ---
 
-### 🏢 College Information
+### 🏢 Academic Timeline & College Information
 <table align="center">
   <tr>
-    <td width="150px">
-      <!-- अपनी कॉलेज फोटो/लोगो का लिंक यहाँ 'src' में डालें -->
-      <img src="5.png" align="center" alt="Shibli National College" />
+    <td width="120px" align="center">
+      <!-- Upload your Galgotias University logo as 'galgotias-logo.png' -->
+      <img src="galgotias-logo.png" alt="Galgotias University" width="100px" />
+    </td>
+    <td>
+      <strong>Galgotias University, Greater Noida</strong><br>
+      <em>Pursuing Master of Computer Applications (MCA)</em><br>
+      <strong>First Year Student</strong> | Batch 2026-28
+    </td>
+  </tr>
+  <tr>
+    <td width="120px" align="center">
+      <!-- Your existing Shibli College logo -->
+      <img src="5.png" alt="Shibli National College" width="100px" />
     </td>
     <td>
       <strong>Shibli National College, Azamgarh</strong><br>
       <em>Affiliated with Maharaja Suhel Dev State University</em><br>
-      Pursuing Bachelor of Computer Applications (BCA)<br>
-          <strong>CGPA 8.8</strong> <strong>Batch 2023-26</strong>
+      Completed Bachelor of Computer Applications (BCA) | <strong>CGPA 8.8</strong> | Batch 2023-26
     </td>
   </tr>
 </table>
@@ -35,33 +46,34 @@
 ---
 
 ### 🔭 Current Work & Projects
-- 🛠️ **EDUSWAP:** **Developing** **[EDUSWAP-Skill-Exchange-Framework](https://github.com)** - "An AI-Powered Intelligent Skill Exchanging and Knowledge Sharing Framework. EDUSWAP enables a centralized follower based learning mechanis introducing modern concept of learning with the help of profile matching"
-- 🛠️ **Shibli Knowledge Website:** **[Shibli-Knowledge-website](https://shibli.free.nf)** - "A comprehensive full-stack platform for Founder of Shibli National College named Allama Shibli Nomani.This website provides detiled Biography of Allama Shibli Nomani abut their life journey Achivements and struggle for Education."
+- 🛠️ **EDUSWAP:** **Developing** **[EDUSWAP-Skill-Exchange-Framework](https://github.com)** - "An AI-Powered Intelligent Skill Exchanging and Knowledge Sharing Framework. EDUSWAP enables a centralized follower-based learning mechanism introducing modern concepts of learning with the help of profile matching."
+- 🛠️ **Shibli Knowledge Website:** **[Shibli-Knowledge-website](https://free.nf)** - "A comprehensive full-stack platform for the Founder of Shibli National College named Allama Shibli Nomani. This website provides a detailed Biography of Allama Shibli Nomani about their life journey, achievements, and struggle for Education."
+
 ---
 
 ### 🛠️ Technical Arsenal
 <p align="center">
-  <img src="php logo.png" alt="My Tech Stack" />
+  <!-- Upload a Java logo as 'java-logo.png' -->
+  <img src="php logo.png" alt="Java Tech Stack" width="100px" />
+  <img src="java-logo.png" alt="Java Tech Stack" width="100px" />
 </p>
 
 **Core Competencies:**
-*   **Backend:** PHP, MySQL (Database Design)
-*    **Tools:** Vs Code Editor, Xampp 
+*   **Backend & Logic:** Java (Core Java), Data Structures & Algorithms (DSA), MySQL
+*   **Tools:** VS Code, IntelliJ IDEA, Xampp, Git & GitHub
 *   **Frontend:** Bootstrap 5, JavaScript, jQuery, Ajax
-*   **Version Control:** Git & GitHub
+*   **Soft Skills:** Communication Skills, Presentation, and Teamwork
 
 ---
 
----
-
-### 📞 Contact Us!
+### 📞 Contact Me!
 <p align="left">
- <strong>Mail Att :</strong> <a href="mailto:amitpandey1187170@gmail.com"> amitpandey1187170@gmail.com</a> <br>
+ <strong>Mail At :</strong> <a href="mailto:amitpandey1187170@gmail.com"> amitpandey1187170@gmail.com</a> <br>
  <strong>Call At :</strong> <a href="tel:9956794787">9956794787</a><br>
- <strong>LinkedIn :</strong> <a href="https://linkedin.com/in/amit-pandey-shibli">linkedin.com/in/amit-pandey-shibli</a>
+ <strong>LinkedIn :</strong> <a href="https://linkedin.com">://linkedin.com</a>
 </p>
 
 ---
 <p align="center">
-  <i>" Aspiring PHP Developer || Amit Pandey."</i>
+  <i>" Aspiring Java Developer || Amit Pandey "</i>
 </p>
