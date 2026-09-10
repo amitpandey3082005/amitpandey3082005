@@ -1,4 +1,4 @@
-# Amit Pandey | Java, DSA & Web Development(PHP Developer)
+# Amit Pandey | Java, DSA & Web Technology (PHP Application)
 <p align="center">
   <img width="30%" src="amt.png" alt="Typing SVG" />
 </p>
@@ -53,7 +53,7 @@
 ### 🛠️ Technical Arsenal
 <p align="center">
   <img src="html-logo.png" alt="Java Tech Stack" width="100px" />
-  <img src="css-logo.jpg" alt="Java Tech Stack" width="80px" />
+  <img src="css-logo.png" alt="Java Tech Stack" width="70px" />
   <img src="javascript-logo.webp" alt="Java Tech Stack" width="100px" />
   <img src="php logo.png" alt="Java Tech Stack" width="100px" />
   <img src="java-logo.png" alt="Java Tech Stack" width="100px" />
