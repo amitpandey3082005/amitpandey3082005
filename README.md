@@ -1,4 +1,4 @@
-# Amit Pandey | Crafting Secure & Scalable Web Solutions | Java, DSA & Web Architecture
+# Amit Pandey | Java, DSA & Web Development(PHP Developer)
 <p align="center">
   <img width="30%" src="amt.png" alt="Typing SVG" />
 </p>
