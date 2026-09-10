@@ -1,5 +1,4 @@
-# 💻 Amit Pandey | Crafting Secure & Scalable Web Solutions | Java, DSA & Web Architecture
-
+# ✨Amit Pandey | MCA @ Galgotias University | Focused on Secure Web Designing, Java & DSA
 <p align="center">
   <img width="30%" src="amt.png" alt="Typing SVG" />
 </p>
