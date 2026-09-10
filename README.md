@@ -1,7 +1,7 @@
 # Hi there, I'm Amit Pandey 👋
 
 <p align="center">
-  <img width="40%" src="amt.png" alt="Typing SVG" />
+  <img width="30%" src="amt.png" alt="Typing SVG" />
 </p>
 
 ---
@@ -53,7 +53,9 @@
 
 ### 🛠️ Technical Arsenal
 <p align="center">
-  <!-- Upload a Java logo as 'java-logo.png' -->
+  <img src="html-logo.png" alt="Java Tech Stack" width="100px" />
+  <img src="css-logo.jpg" alt="Java Tech Stack" width="80px" />
+  <img src="javascript-logo.webp" alt="Java Tech Stack" width="100px" />
   <img src="php logo.png" alt="Java Tech Stack" width="100px" />
   <img src="java-logo.png" alt="Java Tech Stack" width="100px" />
 </p>
