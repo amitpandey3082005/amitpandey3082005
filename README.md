@@ -53,7 +53,7 @@
 ### 🛠️ Technical Arsenal
 <p align="center">
   <img src="html-logo.png" alt="Java Tech Stack" width="100px" />
-  <img src="css-logo.png" alt="Java Tech Stack" width="70px" />
+  <img src="css-logo.jpg" alt="Java Tech Stack" width="70px" />
   <img src="javascript-logo.webp" alt="Java Tech Stack" width="100px" />
   <img src="php logo.png" alt="Java Tech Stack" width="100px" />
   <img src="java-logo.png" alt="Java Tech Stack" width="100px" />
